@@ -1,7 +1,7 @@
 # ⚠️     01001000 01101100 01101111 (Hello, I'm Elena Bzovii)     ⚠️
 > **I’m back at it with the main question: 'What if?' My brain is already off wandering into the edge cases—wanna join the chaos?**
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&weight=700&size=35&pause=1000&color=D4A820&center=true&vCenter=true&width=435&lines=HELLO+WORLD;I'm+Aumovio+agile+software+engineer;Creative+Developer+by+Night" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&weight=700&size=35&pause=1000&color=D4A820&center=true&vCenter=true&width=435&lines=HELLO+WORLD;I'm+Agile+software+engineer;Creative+Developer+by+Night" alt="Typing SVG" />
 </div>
 
 
