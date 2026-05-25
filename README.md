@@ -8,7 +8,7 @@
 ---
 
 ### 🔍 About Me
-I am a Junior Agile Software Engineer at AUMOVIO (a Continental spin-off) with over two years of experience mastering the "heartbeat" of automotive systems. I specialize in the validation and automation of ECUs and embedded systems, where I successfully re-engineered test workflows using SWATT, CAPL, and Python to reduce execution time to a mere one-third of its original state. 
+I am a Advanced Agile Software Engineer at AUMOVIO (a Continental spin-off) with over two years of experience mastering the "heartbeat" of automotive systems. I specialize in the validation and automation of ECUs and embedded systems, where I successfully re-engineered test workflows using SWATT, CAPL, and Python to reduce execution time to a mere one-third of its original state. 
 My technical foundation is built on absolute excellence, having ranked first in my class for my Bachelor’s in Informatics. For my Master’s in Computer Programming,  I bridged the gap between logic and emotion through an AI and NLP-based dissertation. 
 Beyond the terminal, my perspective has been shaped by a global journey through multiple Erasmus+ programs across Europe—from Belgium to Bulgaria—transforming me into a culturally adaptive leader who treats every complex system as a living organism. Driven by the relentless question "What if?", I navigate the digital chaos.
 
